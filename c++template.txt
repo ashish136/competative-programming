@@ -1,0 +1,16 @@
+#include <bits/stdc++.h>
+#define FOR(i, k, n) for(int i = k ; i < n ; i++)
+using namespace std;
+void fast() {std::ios_base::sync_with_stdio(false) ; std::cin.tie(0) ; std::cout.tie(0);}
+typedef long long int lli  ;
+typedef long double ld;
+lli gcd(lli a, lli b){ if(!a) return b ; return gcd(b%a, a) ;}
+template <class T> void print(T a) {std::cout << a << "\n" ;}
+const int MAX = 111111 ;
+
+// CODE FROM HERE
+int main(){
+fast();
+
+return 0;
+}
