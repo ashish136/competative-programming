@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 #define FOR(i, k, n) for(int i = k ; i < n ; i++)
+#define setarr(arr,val, n) memset(arr,val,sizeof(arr[0])*n)
+#define setmat(mat,val,m,n) memset(mat, val, sizeof(mat[0][0]) * m * n);
 using namespace std;
 void fast() {std::ios_base::sync_with_stdio(false) ; std::cin.tie(0) ; std::cout.tie(0);}
 typedef long long int lli  ;
