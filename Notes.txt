@@ -1,3 +1,5 @@
 1. float and double have 6 and 15 precision so always use a margin of (~0.0000001) in comparing.
 2 There is inbuilt gcd function in cpp- _gcd(x,y);
 3. Number of digits in N =floor(log10(N)) + 1;  
+4 . modulo inv of 2 for MOD is (MOD + 1)/2;
+5. mo's algorithm is used for range queries. 
